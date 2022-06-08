@@ -7,5 +7,6 @@ Ejemplo de uso:
 
 useCounter() // Recibe un valor por defecto, que es el valor inicial
 
-increment() //Reciben un factor para realizar la operación, osea de cuánto en cuánto incrementará 
-decrement() //Reciben un factor para realizar la operación, osea de cuánto en cuánto decrementará
+increment() // Recibe un factor para realizar la operación, osea de cuánto en cuánto incrementará 
+
+decrement() // Recibe un factor para realizar la operación, osea de cuánto en cuánto decrementará
