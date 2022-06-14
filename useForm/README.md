@@ -7,5 +7,5 @@ Ejemplo:
         age: 0,
         email: '',
     }
-    const [ formState, handleInputChange, reset ] = useForm( {initialState} );
+    const { ...formState, formState, handleInputChange, reset } = useForm( {initialState} );
 ```

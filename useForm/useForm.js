@@ -16,6 +16,6 @@ export const useForm = ( initialState = {} ) => {
         })
     }
 
-    return [formState, handleInputChange, reset];
+    return {...formState, formState, handleInputChange, reset};
 }
 
